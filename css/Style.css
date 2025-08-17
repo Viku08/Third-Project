@@ -1,0 +1,194 @@
+.navs{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #2D336B;
+    color: white;
+    
+    
+    
+}
+.jus{
+    justify-content: center;
+}
+.btnlen{
+    box-sizing:content-box;
+    justify-content: center;
+    border-radius: 20px;
+    width: 100px;
+    
+}
+.btn{
+    background-color: white !important;
+}
+.move{
+    margin-left: 33px;
+}
+.span2{
+    color:#578FCA ;
+}
+.lis{
+list-style: none;
+display: flex;
+justify-content: space-between;
+column-gap: 120px;
+}
+.logo{
+    margin-left: 30px;
+    ;
+}
+.btn{
+    background-color: #2D336B !important;
+    color: white !important;
+
+}
+.btnalign{
+    justify-content: right;
+    column-gap: 10px;
+}
+
+.hei{
+    height:400px ;
+}
+
+.imgs2{
+    height: 773px ;
+}
+
+.cen{
+    justify-content: center ;
+    border-radius: 50%;
+    border: 1px solid black; 
+    width: 200px;
+    height: 200px;
+    
+
+}
+.btngap{
+    margin-left: 20px;
+}
+.box{
+    
+    background-color: #872341;
+
+
+}
+.bgg{
+    background-color: #2D336B;
+}
+.boximg{
+    height: 90px;
+    width: 90px;
+
+}
+.alignn{
+    margin-left: 270px  ;
+}
+.imgright{
+    width:610px;
+    height: 610px;
+    border-radius: 5px;
+}
+.para{
+    text-align: justify;
+}
+.inn{
+    color: red;
+}
+
+.btnn{
+    background-color: #2D336B;
+    color: aliceblue;
+    border-radius: 5px;
+    width: 100px;
+    justify-content:center ;
+    margin-left: 80px;
+}
+.cardAlign{
+    height: 300px;
+    width: 300px;
+}
+.lisStyle{
+    list-style: none;
+    
+}
+.foots{
+    background-color:#578FCA;
+    color: white;
+}
+.footback{
+    background-color:#2D336B;
+    color: white;
+
+}
+.logfoot{
+    margin-left: 70px;
+    background-color: white;
+    border-radius: 50%;
+}
+.backk{
+    background-image: url(../Asset/image/background.webp);
+    height: 350px;
+    color: white;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+.up{
+    margin-top: ;
+}
+.alignnn{
+    margin-top: 100px;
+    margin-left: 290px;
+}
+.bts{
+    background-color: red !important;
+    color: white !important;
+    margin-left: 520px;
+    margin-top: 15px;
+    border-radius: 5px;
+    width: 100px;
+    
+}
+.bg{
+    background-color: #2D336B !important;
+    color: white !important;
+}
+.bg1{
+    background-color: #C4D9FF !important;
+}
+.bg2{
+    background-color: #89CFF3 !important;
+}
+.pad{
+    padding: 75px;
+}
+.company{
+    color: red;
+    text-decoration: none;
+}
+.le{
+    margin-left: 260px;
+    margin-top: 10px;
+}
+.imgform{
+     height: 600px;
+    width: 400px; 
+     margin-left: 120px; 
+
+
+}
+
+.imgbckk{
+    background-image: url(../Asset/image/Red\ White\ Circle\ Modern\ Kebab\ Logo\ \(1\)-Photoroom.png);
+    margin-left: 70px;
+    
+
+
+}
+
+
+.bckbg{
+    background-color: #C4D9FF !important;
+    box-sizing: 100px;
+}
